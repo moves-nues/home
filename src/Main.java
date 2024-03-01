@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        nt i = 0;
+        int i = 0;
         int month = 0;
         while (i <= 2459000) {
             i = i + 15000;
